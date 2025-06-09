@@ -2,8 +2,6 @@
 
 A beautiful, modern todo list application built with React and Vite featuring glassmorphism design and smooth animations.
 
-![Todo App Preview](https://via.placeholder.com/600x400?text=Todo+App+Preview)
-
 ## 🚀 Features
 
 - ✅ **Add, edit, and delete tasks** - Full CRUD functionality
@@ -41,13 +39,6 @@ A beautiful, modern todo list application built with React and Vite featuring gl
    ```
 
 4. **Open your browser** and visit `http://localhost:5173`
-
-## 📦 Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
 
 ## 🎨 Design Features
 
