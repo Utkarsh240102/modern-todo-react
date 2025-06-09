@@ -1,4 +1,4 @@
-# Modern Todo React ✨
+# Modern Todo List ✨
 
 A beautiful, modern todo list application built with React and Vite featuring glassmorphism design and smooth animations.
 
@@ -26,8 +26,8 @@ A beautiful, modern todo list application built with React and Vite featuring gl
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Utkarsh240102/modern-todo-react.git
-   cd modern-todo-react
+   git clone https://github.com/Utkarsh240102/modern-todo-list.git
+   cd modern-todo-list
    ```
 
 2. **Install dependencies**
@@ -57,14 +57,6 @@ A beautiful, modern todo list application built with React and Vite featuring gl
 - **Custom Checkboxes** - Styled with CSS for better UX
 - **Hover Effects** - Interactive feedback on all elements
 - **Mobile-First Design** - Responsive across all screen sizes
-
-## 📱 Screenshots
-
-### Desktop View
-![Desktop View](https://via.placeholder.com/800x600?text=Desktop+View)
-
-### Mobile View
-![Mobile View](https://via.placeholder.com/400x800?text=Mobile+View)
 
 ## 🤝 Contributing
 
