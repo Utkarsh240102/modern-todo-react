@@ -1,12 +1,90 @@
-# React + Vite
+# Modern Todo React ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful, modern todo list application built with React and Vite featuring glassmorphism design and smooth animations.
 
-Currently, two official plugins are available:
+![Todo App Preview](https://via.placeholder.com/600x400?text=Todo+App+Preview)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ **Add, edit, and delete tasks** - Full CRUD functionality
+- 🔄 **Mark tasks as complete/incomplete** - Interactive checkboxes
+- 💾 **Local storage persistence** - Your tasks survive page refreshes
+- 📱 **Responsive design** - Works perfectly on all devices
+- 🎨 **Modern glassmorphism UI** - Beautiful gradient backgrounds and blur effects
+- ✨ **Smooth animations** - Delightful micro-interactions
+- 🎯 **Clean, intuitive interface** - Focus on what matters
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- **React 19** - Latest version with modern hooks
+- **Vite** - Lightning-fast build tool and dev server
+- **CSS3** - Modern features including gradients, backdrop-filter, and animations
+- **Local Storage API** - Client-side data persistence
+- **Google Fonts (Inter)** - Clean, professional typography
+
+## 🏃‍♂️ Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Utkarsh240102/modern-todo-react.git
+   cd modern-todo-react
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser** and visit `http://localhost:5173`
+
+## 📦 Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run lint` - Run ESLint
+
+## 🎨 Design Features
+
+- **Glassmorphism Effect** - Translucent cards with backdrop blur
+- **Gradient Backgrounds** - Beautiful purple-blue gradients
+- **Smooth Transitions** - All interactions are animated
+- **Custom Checkboxes** - Styled with CSS for better UX
+- **Hover Effects** - Interactive feedback on all elements
+- **Mobile-First Design** - Responsive across all screen sizes
+
+## 📱 Screenshots
+
+### Desktop View
+![Desktop View](https://via.placeholder.com/800x600?text=Desktop+View)
+
+### Mobile View
+![Mobile View](https://via.placeholder.com/400x800?text=Mobile+View)
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+
+1. Fork the project
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+**Utkarsh Gupta**
+- GitHub: [@Utkarsh240102](https://github.com/Utkarsh240102)
+
+---
+
+⭐ Don't forget to give this project a star if you found it helpful!
